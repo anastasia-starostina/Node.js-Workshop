@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "w4d1_intro-to-node-workshop-simran-anastasia",
+  "version": "1.0.0",
+  "description": "Node JS gives us the power to take JavaScript out of the browser - this means we're able to use it in servers and on the back end. Make sure you have the relevant version of Node for your OS installed; you can choose which version you use, but the current LTS version is recommended.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SchoolOfCode/w4d1_intro-to-node-workshop-simran-anastasia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/w4d1_intro-to-node-workshop-simran-anastasia/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/w4d1_intro-to-node-workshop-simran-anastasia#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
